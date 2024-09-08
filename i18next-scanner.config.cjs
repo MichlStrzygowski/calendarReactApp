@@ -1,6 +1,7 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
+// eslint-disable-next-line no-undef
 module.exports = {
     input: [
         'src/**/*.{js,jsx,ts,tsx}',

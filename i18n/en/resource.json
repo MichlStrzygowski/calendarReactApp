@@ -1,3 +1,7 @@
 {
-  "calendar": "ddddddddddddddddd"
+  "english": "English",
+  "polish": "Polish",
+  "calendar": "Calendar",
+  "addEvent": "Add event",
+  "findEvent": "Find event"
 }
